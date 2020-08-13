@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/ahtimir/workplace_npm_package#readme",
   "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
     "defender-game": "^1.0.0"
   }
 }
